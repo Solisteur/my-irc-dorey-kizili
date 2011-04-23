@@ -5,11 +5,12 @@
 ** Login   <kizili_g@epitech.net>
 ** 
 ** Started on  Sun Apr  3 19:49:39 2011 guillaume kizilian
-** Last update Sun Apr  3 19:51:36 2011 guillaume kizilian
+** Last update Thu Apr 21 17:11:29 2011 guillaume kizilian
 */
 
 #include	<unistd.h>
 #include	<stdlib.h>
+#include	<stdio.h>
 #include	"common.h"
 
 void		*xmalloc(size_t size)
